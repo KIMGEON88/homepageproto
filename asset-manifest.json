@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/homepageproto/static/css/main.073c9b0a.css",
-    "main.js": "/homepageproto/static/js/main.6a24eceb.js",
+    "main.css": "/homepageproto/static/css/main.3b0d9054.css",
+    "main.js": "/homepageproto/static/js/main.718cf76c.js",
     "static/js/787.d8d7c85f.chunk.js": "/homepageproto/static/js/787.d8d7c85f.chunk.js",
-    "static/media/logo.svg": "/homepageproto/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Pretendard-Regular.ttf": "/homepageproto/static/media/Pretendard-Regular.02efe31729ef598431fa.ttf",
+    "static/media/Pretendard-Bold.ttf": "/homepageproto/static/media/Pretendard-Bold.c118fe5a220efe6a75c7.ttf",
+    "static/media/Pretendard-Bold.woff": "/homepageproto/static/media/Pretendard-Bold.d0f80e7ac3933bfbf45d.woff",
+    "static/media/Pretendard-Regular.woff": "/homepageproto/static/media/Pretendard-Regular.371a053f6fa19004d5fa.woff",
+    "static/media/SEBANG-Gothic-Regular.otf": "/homepageproto/static/media/SEBANG-Gothic-Regular.e673ab34f409ada50620.otf",
+    "static/media/SEBANG-Gothic-Bold.otf": "/homepageproto/static/media/SEBANG-Gothic-Bold.799512f7506013ea5139.otf",
+    "static/media/Pretendard-Bold.woff2": "/homepageproto/static/media/Pretendard-Bold.6b164eb09ac66559881e.woff2",
+    "static/media/Pretendard-Regular.woff2": "/homepageproto/static/media/Pretendard-Regular.0c7ef87f67b575118ed9.woff2",
+    "static/media/backImage_blockchain.png": "/homepageproto/static/media/backImage_blockchain.1c0f0a60e98368ec8f36.png",
+    "static/media/Anonymous.png": "/homepageproto/static/media/Anonymous.1e0f9e7332f857fb91a7.png",
+    "static/media/backImage_metabus.png": "/homepageproto/static/media/backImage_metabus.6fb10f75e73c2fff3722.png",
+    "static/media/backImage_VRAR.png": "/homepageproto/static/media/backImage_VRAR.f29dc3c4001cd139736e.png",
+    "static/media/gyungilWhite.png": "/homepageproto/static/media/gyungilWhite.b05ab08421e0dfeaf959.png",
+    "static/media/backImage_planing.png": "/homepageproto/static/media/backImage_planing.e10a5ea005d2d81d8a1a.png",
     "index.html": "/homepageproto/index.html",
-    "main.073c9b0a.css.map": "/homepageproto/static/css/main.073c9b0a.css.map",
-    "main.6a24eceb.js.map": "/homepageproto/static/js/main.6a24eceb.js.map",
+    "main.3b0d9054.css.map": "/homepageproto/static/css/main.3b0d9054.css.map",
+    "main.718cf76c.js.map": "/homepageproto/static/js/main.718cf76c.js.map",
     "787.d8d7c85f.chunk.js.map": "/homepageproto/static/js/787.d8d7c85f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6a24eceb.js"
+    "static/css/main.3b0d9054.css",
+    "static/js/main.718cf76c.js"
   ]
 }
