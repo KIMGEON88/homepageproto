@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/homepageproto/static/css/main.3b0d9054.css",
-    "main.js": "/homepageproto/static/js/main.a9d20bb5.js",
+    "main.js": "/homepageproto/static/js/main.47f7922e.js",
     "static/js/787.d8d7c85f.chunk.js": "/homepageproto/static/js/787.d8d7c85f.chunk.js",
     "static/media/Pretendard-Regular.ttf": "/homepageproto/static/media/Pretendard-Regular.02efe31729ef598431fa.ttf",
     "static/media/Pretendard-Bold.ttf": "/homepageproto/static/media/Pretendard-Bold.c118fe5a220efe6a75c7.ttf",
@@ -14,16 +14,18 @@
     "static/media/backImage_blockchain.png": "/homepageproto/static/media/backImage_blockchain.1c0f0a60e98368ec8f36.png",
     "static/media/Anonymous.png": "/homepageproto/static/media/Anonymous.1e0f9e7332f857fb91a7.png",
     "static/media/backImage_metabus.png": "/homepageproto/static/media/backImage_metabus.6fb10f75e73c2fff3722.png",
+    "static/media/LinkMobilePhone.png": "/homepageproto/static/media/LinkMobilePhone.c66f20a86cf614a125d0.png",
+    "static/media/LinkMobileGame.png": "/homepageproto/static/media/LinkMobileGame.a91d738d62d6911571d0.png",
     "static/media/backImage_VRAR.png": "/homepageproto/static/media/backImage_VRAR.f29dc3c4001cd139736e.png",
     "static/media/gyungilWhite.png": "/homepageproto/static/media/gyungilWhite.b05ab08421e0dfeaf959.png",
     "static/media/backImage_planing.png": "/homepageproto/static/media/backImage_planing.e10a5ea005d2d81d8a1a.png",
     "index.html": "/homepageproto/index.html",
     "main.3b0d9054.css.map": "/homepageproto/static/css/main.3b0d9054.css.map",
-    "main.a9d20bb5.js.map": "/homepageproto/static/js/main.a9d20bb5.js.map",
+    "main.47f7922e.js.map": "/homepageproto/static/js/main.47f7922e.js.map",
     "787.d8d7c85f.chunk.js.map": "/homepageproto/static/js/787.d8d7c85f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b0d9054.css",
-    "static/js/main.a9d20bb5.js"
+    "static/js/main.47f7922e.js"
   ]
 }
